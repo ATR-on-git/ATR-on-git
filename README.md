@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ATR-on-git
+- 👀 I’m interested in automating workflows
+- 🌱 I’m currently learning ADO
+- 💞️ I’m looking to collaborate on infra as code
+- 📫 How to reach me: beem me @AVXY
